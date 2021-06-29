@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CommonMark",
+        "repositoryURL": "https://github.com/chriseidhof/commonmark-swift/",
+        "state": {
+          "branch": "embed-c",
+          "revision": "4f4cfdef9aa3b001467f9350e8ad8ff92bd926a1",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
